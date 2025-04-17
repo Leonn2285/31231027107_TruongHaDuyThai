@@ -1,0 +1,16 @@
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\bin\Debug\net8.0-windows\desktop_week2.exe
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\bin\Debug\net8.0-windows\desktop_week2.deps.json
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\bin\Debug\net8.0-windows\desktop_week2.runtimeconfig.json
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\bin\Debug\net8.0-windows\desktop_week2.dll
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\bin\Debug\net8.0-windows\desktop_week2.pdb
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\obj\Debug\net8.0-windows\desktop_week2.Form1.resources
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\obj\Debug\net8.0-windows\desktop_week2.csproj.GenerateResource.cache
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\obj\Debug\net8.0-windows\desktop_week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\obj\Debug\net8.0-windows\desktop_week2.AssemblyInfoInputs.cache
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\obj\Debug\net8.0-windows\desktop_week2.AssemblyInfo.cs
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\obj\Debug\net8.0-windows\desktop_week2.csproj.CoreCompileInputs.cache
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\obj\Debug\net8.0-windows\desktop_week2.dll
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\obj\Debug\net8.0-windows\refint\desktop_week2.dll
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\obj\Debug\net8.0-windows\desktop_week2.pdb
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\obj\Debug\net8.0-windows\desktop_week2.genruntimeconfig.cache
+C:\Users\tadyuh\source\repos\desktop_week2\desktop_week2\obj\Debug\net8.0-windows\ref\desktop_week2.dll
